@@ -1,2 +1,4 @@
+!(https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/New_Era_University.svg/175px-New_Era_University.svg.png)
+
 # INFORMATION
-<b>Name:</b> Jea Angelline M. Efa
+**Name:** Jea Angelline M. Efa
