@@ -2,6 +2,6 @@
 
 <br></br>
 ## INFORMATION
-<font size="11"> Jea Angelline M. Efa</font>
+**NAME:** Jea Angelline M. Efa
 
 
