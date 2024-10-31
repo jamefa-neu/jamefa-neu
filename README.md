@@ -5,7 +5,9 @@
 **NAME:** Jea Angelline M. Efa
 
 ## EDUCATION
-I am an IT student who is currently enrolled in New Era University.
+Bachelor of Science in Information Technology
+New Era University
+2021 - Present
 
 ## CERTIFICATIONS
 
