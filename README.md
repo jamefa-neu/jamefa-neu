@@ -2,6 +2,6 @@
 
 <br></br>
 # INFORMATION
-<font size="5">**Name:** Jea Angelline M. Efa</font>
+<font size="11">**Name:** Jea Angelline M. Efa</font>
 
 
