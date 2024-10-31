@@ -5,9 +5,14 @@
 **NAME:** Jea Angelline M. Efa
 
 ## EDUCATION
-
+I am an IT student who is currently enrolled in New Era University.
 
 ## CERTIFICATIONS
 
 ## SKILLSET
++ Entry-level coding
++ Problem solving
++ Machine learning
++ Cloud computing
+
 
