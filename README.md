@@ -5,8 +5,8 @@
 **NAME:** Jea Angelline M. Efa
 
 ## EDUCATION
-Bachelor of Science in Information Technology
-New Era University
+Bachelor of Science in Information Technology <br>
+New Era University <br>
 2021 - Present
 
 ## CERTIFICATIONS
