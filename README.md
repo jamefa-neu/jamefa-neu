@@ -9,7 +9,7 @@
 <b>Bachelor of Science in Information Technology</b> <br>
 New Era University <br>
 2020 - Present
-
+<br>
 <b> Science, Technology, Engineering, Mathematics </b> <br>
 Technological Institute of the Philippines <br>
 2017 - 2019
