@@ -2,7 +2,6 @@
 
 
 <br></br>
-<div align = "center>
 ## JEA ANGELLINE M. EFA
 
 
@@ -11,8 +10,6 @@
 New Era University <br>
 2021 - Present
 
-
-</div>
 
 <h3 align="left">Certificates:</h3>
 
