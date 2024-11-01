@@ -2,11 +2,12 @@
 
 <br></br>
 ## JEA ANGELLINE M. EFA
-<h3>EDUCATION </h3>
+<h3 align="left">Education:</h3>
 Bachelor of Science in Information Technology <br>
 New Era University <br>
 2021 - Present
 
+<h3 align="left">Certificates:</h3>
 
 
 
