@@ -10,8 +10,8 @@
 New Era University <br>
 2020 - Present
 
-<b> Science, Technology, Engineering, Mathematics </b> 
-Technological Institute of the Philippines
+<b> Science, Technology, Engineering, Mathematics </b> <br>
+Technological Institute of the Philippines <br>
 2017 - 2019
 
 
