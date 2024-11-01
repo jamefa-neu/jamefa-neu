@@ -4,11 +4,11 @@
 <br></br>
 ## JEA ANGELLINE M. EFA
 <h3 align="left">🎓Education🎓</h3>
-| Course | School | Year Graduated |
-| --- | --- |
-| <b>Bachelor of Science in Information Technology</b>| New Era University | 2020 - Present
-| <b>Science, Technology, Engineering, Mathematics | Technological Institute of the Philippines | 2017 - 2019 |
 
+| Course | School | Year Graduated |
+| --- | --- | ---|
+| <b>Bachelor of Science in Information Technology</b>| New Era University | 2020 - Present|
+| <b>Science, Technology, Engineering, Mathematics | Technological Institute of the Philippines | 2017 - 2019 |
 
 
 <h3 align="left">🧾Certificates🧾</h3>
