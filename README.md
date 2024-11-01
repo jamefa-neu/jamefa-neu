@@ -4,7 +4,7 @@
 <br></br>
 
 <h3>EDUCATION </h3>
-**Bachelor of Science in Information Technology** <br>
+Bachelor of Science in Information Technology <br>
 New Era University <br>
 2021 - Present
 
