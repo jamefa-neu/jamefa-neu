@@ -8,7 +8,11 @@
 <h3 align="left">🎓Education🎓</h3>
 <b>Bachelor of Science in Information Technology</b> <br>
 New Era University <br>
-2021 - Present
+2020 - Present
+
+<b> Science, Technology, Engineering, Mathematics </b> 
+Technological Institute of the Philippines
+2017 - 2019
 
 
 <h3 align="left">🧾Certificates🧾</h3>
