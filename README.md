@@ -2,8 +2,8 @@
 
 <br></br>
 ## JEA ANGELLINE M. EFA
-**NAME: Jea Angelline M. Efa**
-
+<br>
+<br>
 ## EDUCATION
 **Bachelor of Science in Information Technology** <br>
 New Era University <br>
