@@ -13,6 +13,9 @@
 
 <h3 align="left">🧾Certificates🧾</h3>
 
+|Course|Issued by|Date completed|
+|---|---|---|
+|   |   |   |
 
 
 <h3 align="left">🛠Languages and Tools🛠</h3>
