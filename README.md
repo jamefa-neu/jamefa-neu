@@ -1,8 +1,7 @@
+<img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/New_Era_University.svg/175px-New_Era_University.svg.png">
+
 <br></br>
 ## JEA ANGELLINE M. EFA
-<br></br>
-<br></br>
-
 <h3>EDUCATION </h3>
 Bachelor of Science in Information Technology <br>
 New Era University <br>
